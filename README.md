@@ -24,6 +24,8 @@ Deve ser criado:
  e) Um predicado que escreve uma lista em ordem inversa.
 ```
 
+&nbsp;
+
 ## Parte 2 - Árvore Genealógica
 
 O código deve conter os predicados para as relações:
