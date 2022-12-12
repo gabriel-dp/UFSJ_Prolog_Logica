@@ -208,9 +208,9 @@ casados(X, Y) :- casal(Y, X).
 || declaracao dos genitores ||
 ============================*/
 
-genitor(goerge, elizabeth).
+genitor(george, elizabeth).
 genitor(mum, elizabeth).
-genitor(goerge, margaret).
+genitor(george, margaret).
 genitor(mum, margaret).
 
 genitor(spencer, diana).
